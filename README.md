@@ -4,7 +4,7 @@
 
 This repo contains
 
-- a dataset from ITM-Rec which includes student and group preferences on the topics of final projects in data base and data science classes, and it was collected from student questionnaires at the ITM department, Illinois Institute of Technology, USA. More info about the dataset can be found in the ITM-Rec/README.md
+- a dataset from ITM-Rec which includes student and group preferences on the topics of final projects in data base and data science classes, and it was collected from student questionnaires at the ITM department, Illinois Institute of Technology, USA. More info about the dataset can be found in the `ITM-Rec/README.md`
 - a jupiter notebook that uses the spark mllib to identify 'greysheep' -- users with specific taste and recommending topics using sparks mmlib ALS model they would be interested in
 
 ## Prerequisites
