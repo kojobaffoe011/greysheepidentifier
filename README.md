@@ -1,4 +1,4 @@
-# MLLIB
+# Greysheep Identifier and Recommender
 
 ## Description
 
